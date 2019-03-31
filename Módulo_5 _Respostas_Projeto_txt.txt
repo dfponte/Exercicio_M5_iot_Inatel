@@ -1,0 +1,44 @@
+
+1. Busque informações de pelo menos 3 tipos de sensores que não foram citados no material e podem ser usados para Smart Home.
+-Sensor de Gás
+-Sensor de Humidade
+-Sensor de Presença
+-Sensor de Fluxo de Ar/Líquido
+
+
+2. Busque por pelo menos 3 outros serviços na nuvem que podem ser usados para projetos com Smart Home.
+Serviço de Banco de Dados (Storage DataBase)
+Registro da Temperatura do ambiente ao longo do dia
+Registro do Número de Pessoas em um Ambiente
+-Serviço de Banco de Dados
+-Servigo de Gerenciameto de Acesso
+Machine Learning (IA)
+-Identificação de Moradores
+-Identificação de voz e hábitos dos moradores
+Identificação e Segurança
+Proteção de dados 
+Proteção de Acesso
+Integridade dos Dados
+Big Data
+-Armazenamento de dados dos sensores 
+3 Crie uma aplicação com pelo menos 3 sensores sendo 1 obrigatoriamente analógico que possa ser usada em uma Smart Home. Esta aplicação precisa estar conectada a algum serviço na nuvem como o Dweet. Descreva todos os detalhes necessários para a execução da aplicação como se fosse um tutorial através de um arquivo txt ou DOC.
+Anexar os itens solicitados num arquivo ZIP ou disponibilizar no GitHub.
+
+
+-Sensor 1: Sensor de Luminosidade
+-Sensor 2: Sensor de Volume de Gás
+-Sensor 3: Sensor digital de presença de gás no ambiente (0-não gás /1-Gás no ambiente)
+-Atuador1 – Alarme Sonoro (Relé 1)
+-Atuador2- Lâmpadas de Iluminação da Cozinha (Relé 2)
+
+
+1-O sensor de luminosidade (Analógico) identifica o momento de acionar as lâmpadas (quando noite):
+-Sensor 1: Sensor de Luminosidade
+-Atuador 2- Lâmpadas de Iluminação da Cozinha (Relé 2)
+
+2-O sensor de gás -Sgas liga o alarme ASom quando houver vazamento de gás no espaço monitorado da cozinha. 
+
+3- O sensor de volume VolGas (Analógico-potenciômetro) identifica o volume de gás 0 a 100%.
+
+
+
